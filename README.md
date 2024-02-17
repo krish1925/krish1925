@@ -1,19 +1,18 @@
 # Hi there! 👋 I'm Krish Patel
-"A Third Year Computer Science Major at UCLA, enthusiastic about Machine Lean"
-krish1925
+"A Third Year Computer Science Major at UCLA, passionate about leveraging technology to drive innovation in machine learning, artificial intelligence, and web development."
 
-## GitHub Profile Trophies 🏆
-krish1925
 
 ## 🔭 Currently Building:
 - An inventory management system for UCLA Student Media, a 105-year-old student media organization.
 - A Tagging and analytics website for Bruin Sports Analytics, developed for the UCLA student-athlete team.
 
 ## 🌱 Currently Learning:
-- Natural Language Processing (NLPs)
-- Neural Networks
-- Computer Vision and AR
-- Computer Networks
+- Delving into Natural Language Processing (NLPs) to understand and process human language.
+- Exploring the intricacies of Neural Networks to create intelligent systems.
+- Immersing myself in Computer Vision and AR, envisioning the future of visual technology.
+- Diving deep into the world of Computer Networks to understand data transmission and communication protocols.
+- Mastering web development technologies such as Next.js, React, and Angular to create efficient and user-friendly web applications.
+
 
 ## 📫 How to Reach Me:
 - Email: knpatel@ucla.edu
