@@ -1,31 +1,26 @@
 # Hi 👋, I'm Krish Patel
-"Passionate Computer Scientist Crafting the Future"
+"A Third Year Computer Science Major at UCLA"
 krish1925
 
 ## GitHub Profile Trophies 🏆
 krish1925
 
-## 🔭 I’m currently working on OBE System Automation
+## 🔭 I’m currently working on two different websites, an inventory management websit 
 
-## 🌱 I’m currently learning Next.js, Node.js, Express.js
-
-## 👯 I’m looking to collaborate on SherX-Profile
-
-## 💬 Ask me about React.js
+## 🌱 I’m currently learning NLPs, Computer Networks, Data cleaning
 
 ## 📫 How to reach me: knpatel@ucla.edu
-
-## ⚡ Fun fact: Honey Never Spoils
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/krishpatel2/) | [GitHub](https://github.com/krish1925) | [Website](https://krish1925.github.io/)
 
 ## Languages and Tools:
-Bootstrap | CSS3 | HTML5 | JavaScript | MATLAB | MySQL | Next.js | React | React Native | coding
+Verilog | C/C++ | Python | CSS/HTML | JavaScript/TypeScript | MATLAB | MySQL | Next.js | React | Angular 
+
+
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish1925&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish1925&show_icons=true)
 
 ## ❤️ Support
 If you appreciate my work, consider supporting me in the following ways:
