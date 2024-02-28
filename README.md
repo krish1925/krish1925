@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Krish Patel
+# Hi there! I'm Krish Patel
 "A Third Year Computer Science Major at UCLA, passionate about leveraging technology to drive innovation in machine learning, artificial intelligence, and web development."
 
 
@@ -26,13 +26,13 @@ Verilog | C/C++ | Python | CSS/HTML | JavaScript/TypeScript | MATLAB | MySQL | N
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish1925&layout=compact)
 
-## ❤️ Support
+##  Support
 If you appreciate my work, here's how you can support me:
-- 🌟 Star your favorite repositories to show your appreciation.
-- 📢 Share interesting projects with your friends and colleagues.
-- 💬 Provide feedback or suggestions on any of my repositories.
+- Star your favorite repositories to show your appreciation.
+- Share interesting projects with your friends and colleagues.
+- Provide feedback or suggestions on any of my repositories.
 Feel free to explore my [GitHub profile](https://github.com/krish1925) for a collection of various projects.
 
-Thank you for your support! 🙌
+Thank you for your support! 
 
 ⭐️ From [Krish Patel](https://krish1925.github.io/)
