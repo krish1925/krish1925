@@ -31,8 +31,10 @@ Verilog | C/C++ | Python | CSS/HTML | JavaScript/TypeScript | MATLAB | MySQL | N
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish1925&layout=compact)
 
 ## Additional GitHub Metrics:
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krish1925) - Showcasing my daily contributions and commitment.
-- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=krish1925&show_icons=true) - Highlighting my contributions, pull requests, and participation in the GitHub community.
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krish1925)
+- Showcasing my daily contributions and commitment.
+- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=krish1925&show_icons=true)
+-  Highlighting my contributions, pull requests, and participation in the GitHub community.
 
 ## 🏆 Contribution Highlights:
 - Active participant in Hackathons and coding competitions, implementing innovative solutions to complex problems.
