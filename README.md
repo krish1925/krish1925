@@ -13,6 +13,11 @@
 - Diving deep into the world of Computer Networks to understand data transmission and communication protocols.
 - Mastering web development technologies such as Next.js, React, and Angular to create efficient and user-friendly web applications.
 
+## Personal Hobbies:
+- Exploring outdoor trails, hiking, and summiting peaks to appreciate nature's beauty firsthand.
+- Conducting practical chemistry experiments, including rocket building, organic compound synthesis, and plant extract extraction.
+- Passionate about botany, studying plant species and ecosystems. In my free time I collect exotic species and try new grafting/propagation techniques
+Fascinated by geology, studying rocks' biochemistry and collecting unique specimens.
 
 ## 📫 How to Reach Me:
 - Email: knpatel@ucla.edu
