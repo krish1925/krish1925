@@ -1,22 +1,22 @@
 # Hi there! I'm Krish Patel
-"A Third Year Computer Science Major at UCLA, passionate about leveraging technology to drive innovation in machine learning, artificial intelligence, and web development."
+A Third Year Computer Science Major at UCLA, passionate about leveraging technology to drive innovation in machine learning, artificial intelligence, and web development.
 
 ## 🔭 Currently Building:
-- An inventory management system for UCLA Student Media, a 105-year-old student media organization.
-- A Tagging and analytics website for Bruin Sports Analytics, developed for the UCLA student-athlete team.
+- 1) An inventory management system 2)An Employee Management system for UCLA Student Media, a 105-year-old student media organization.
+- A tagging and analytics platform designed specifically for Bruin Sports Analytics, tailored to the needs of UCLA student-athletes. This platform empowers UCLA Tennis players with features such as accessing match reports, receiving real-time scores, and conducting in-depth performance analysis based on timestamps.
 
 ## 🌱 Currently Learning:
-- Delving into Natural Language Processing (NLP) to understand and process human language.
-- Exploring the intricacies of Neural Networks to create intelligent systems.
-- Immersing myself in Computer Vision and AR, envisioning the future of visual technology.
+- Delving into Natural Language Processing (NLP), and integrating NLP pre-trained models into applications
+- Exploring the intricacies of Neural Networks, CNNs, and Transformer Architectures.
+- Immersing myself in Computer Vision and AR, getting a grasp and experimenting with visual technology.
 - Diving deep into the world of Computer Networks to understand data transmission and communication protocols.
 - Mastering web development technologies such as Next.js, React, and Angular to create efficient and user-friendly web applications.
 
-## Personal Hobbies:
-- Exploring outdoor trails, hiking, and summiting peaks to appreciate nature's beauty firsthand.
-- Conducting practical chemistry experiments, including rocket building, organic compound synthesis, and plant extract extraction.
+## 🏞️ Personal Hobbies:
+- Exploring outdoor trails, hiking, and summiting peaks on the West Coast.
+- Conducting practical chemistry experiments, including rocket building, organic compound synthesis, and organic compound extractions from plants.
 - Passionate about botany, studying plant species and ecosystems. In my free time, I collect exotic species and try new grafting/propagation techniques.
-- Fascinated by geology, studying rocks' biochemistry and collecting unique specimens.
+- Fascinated by geology, studying rocks' chemical compositions and collecting unique specimens.
 
 ## 📫 How to Reach Me:
 - Email: knpatel@ucla.edu
