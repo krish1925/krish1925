@@ -6,10 +6,10 @@ A Third Year Computer Science Major at UCLA, passionate about leveraging technol
 - A tagging and analytics platform designed specifically for Bruin Sports Analytics, tailored to the needs of UCLA student-athletes. This platform empowers UCLA Tennis players with features such as accessing match reports, receiving real-time scores, and conducting in-depth performance analysis based on timestamps.
 
 ## 🌱 Currently Learning:
-- Delving into Natural Language Processing (NLP), and integrating NLP pre-trained models into applications
-- Exploring the intricacies of Neural Networks, CNNs, and Transformer Architectures.
+- Delving into Natural Language Processing (NLP), and integrating NLP pre-trained models into web applications
+- Exploring the architectures of Neural Networks, CNNs, RNNs, and Transformer Models.
 - Immersing myself in Computer Vision and AR, getting a grasp and experimenting with visual technology.
-- Diving deep into the world of Computer Networks to understand data transmission and communication protocols.
+- Experimenting with NDNs Protocols in Computer Networks to understand data transmission and communication.
 - Mastering web development technologies such as Next.js, React, and Angular to create efficient and user-friendly web applications.
 
 ## 🏞️ Personal Hobbies:
@@ -25,7 +25,10 @@ A Third Year Computer Science Major at UCLA, passionate about leveraging technol
 [LinkedIn](https://www.linkedin.com/in/krishpatel2/) | [GitHub](https://github.com/krish1925) | [Website](https://krish1925.github.io/)
 
 ## Languages and Tools:
-Verilog | C/C++ | Python | CSS/HTML | JavaScript/TypeScript | MATLAB | MySQL | Next.js | React | Angular 
+Verilog | C/C++ | Python | CSS/HTML | JavaScript/TypeScript | MATLAB | MySQL | Next.js/NodeJS | React | Angular | Maven | GDB Debugger | Bash | AWS | Arduino/Rasberry Pi
+
+## Python Libraries:
+Numpy | Keras | Sklearn | Tensorflow | Pytorch | Matplotlib | OpenCV2 | Seaborn
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish1925&layout=compact)
@@ -38,7 +41,6 @@ Highlighting my contributions, pull requests, and participation in the GitHub co
 
 ## 🏆 Contribution Highlights:
 - Active participant in Hackathons and coding competitions, implementing innovative solutions to complex problems.
-- Contributor to open-source projects, aiding in the development of software that benefits the wider community.
 - Engaging in peer code reviews and collaborative programming to enhance project quality and team knowledge sharing.
 
 ## 💡 Engage with My Projects:
