@@ -22,10 +22,10 @@ A Third Year Computer Science Major at UCLA, passionate about leveraging technol
 - Email: knpatel@ucla.edu
 
 ## Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/krishpatel2/) | [GitHub](https://github.com/krish1925) | [Website](https://krish1925.github.io/)
+[LinkedIn](https://www.linkedin.com/in/krishpatel2/) | [Website](https://krish1925.github.io/)
 
 ## Languages and Tools:
-Verilog | C/C++ | Python | CSS/HTML | JavaScript/TypeScript | MATLAB | MySQL | Next.js/NodeJS | React | Angular | Maven | GDB Debugger | Bash | AWS | Arduino/Rasberry Pi
+Verilog | C/C++ | Python | CSS/HTML | JavaScript/TypeScript | MATLAB | MySQL | Next.js/NodeJS | React | Angular | Maven | GDB Debugger | Bash | AWS | Arduino/Rasberry Pi ?
 
 ## Python Libraries:
 Numpy | Keras | Sklearn | Tensorflow | Pytorch | Matplotlib | OpenCV2 | Seaborn
