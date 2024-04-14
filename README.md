@@ -2,7 +2,7 @@
 A Third Year Computer Science Major at UCLA, passionate about leveraging technology to drive innovation in machine learning, artificial intelligence, and web development.
 
 ## 🔭 Currently Building:
-- 1) An inventory management system 2) An Employee Management system for UCLA Student Media, a 105-year-old student media organization.
+- 1. An inventory management system 2. An Employee Management system for UCLA Student Media, a 105-year-old student media organization.
 - A tagging and analytics platform designed specifically for Bruin Sports Analytics, tailored to the needs of UCLA student-athletes. This platform empowers UCLA Tennis players with features such as accessing match reports, receiving real-time scores, and conducting in-depth performance analysis based on timestamps.
 
 ## 🌱 Currently Learning:
