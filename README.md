@@ -5,18 +5,18 @@ A Third Year Computer Science Major at UCLA, passionate about leveraging technol
 - 1.An inventory management system 2.An Employee Management system for UCLA Student Media, UCLA's 105-year-old student media organization.
 - A tagging and analytics platform designed specifically for Bruin Sports Analytics, tailored to the needs of UCLA student-athletes. This platform empowers UCLA Tennis players with features such as accessing match reports, receiving real-time scores, and conducting in-depth performance analysis based on timestamps.
 
-## 🌱 Currently Learning:
-- Delving into Natural Language Processing, Word Embedding libraries, and integrating NLP pre-trained models into web applications
-- Exploring the architectures of Neural Networks, GANs, and Transformer Models.
-- Immersing myself in Computer Vision and AR, getting a grasp and experimenting with visual technology.
-- Experimenting with NDNs Protocols in Computer Networks to understand data transmission and communication.
-- Mastering web development technologies such as Django, Next.js, React, and Angular to create efficient and user-friendly web applications.
+## 🌱 What I'm currently learning:
+- Diving into Natural Language Processing and exploring libraries for word embedding and NLP model integration.
+- Studying various architectures of Neural Networks, including GANs, VAEs, Stable Diffusion and Transformer models.
+- Expanding my knowledge in Computer Vision and Augmented Reality.
+- Advancing my skills in web development technologies like Django, Next.js, React, and Angular.
+
 
 ## 🏞️ Personal Hobbies:
-- I enjoy exploring outdoor trails and conquering peaks along the scenic West Coast.
-- In my spare time, I engage in practical chemistry experiments such as rocket building and organic compound synthesis.
-- With a deep passion for botany, I dedicate myself to studying plant species and ecosystems. I also actively collect exotic species and experiment with grafting techniques.
-- Additionally, I'm also interested in geology, studying rocks' chemical compositions and collecting unique specimens.
+- I enjoy hiking and experiencing the natural beauty of the West Coast.
+- I conduct practical chemistry experiments in my free time, including extraction, purification, and synthesis of organic compounds.
+- Passionate about botany, I study and cultivate various plant species, experimenting with grafting techniques and tissue culture.
+- I am also interested in geology, particularly studying the chemical composition of rocks and collecting unique geological specimens.
 
 ## 📫 How to Reach Me:
 - Email: knpatel@ucla.edu
