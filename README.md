@@ -28,7 +28,7 @@ A Third Year Computer Science Major at UCLA, passionate about leveraging technol
 Verilog | C/C++ | Python | CSS/HTML | Java/JavaScript/TypeScript | MATLAB | Next.js/NodeJS | React | Angular | Maven | GDB Debugger | Bash | AWS | Arduino/Rasberry Pi | MongoDB | SQL | Firebase  | Nginx | DigitalOcean | AWS(EC2 and Lambda) | Flask | Tinygraphics
 
 ## Python Libraries:
-Numpy | Keras | Sklearn | Tensorflow | Pytorch | Matplotlib | OpenCV2 | Seaborn
+Numpy | Keras | Sklearn | Tensorflow | Pytorch | Matplotlib | OpenCV2 | Seaborn | Nltk | Word2vec | Transformers
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish1925&layout=compact)
