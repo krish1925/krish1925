@@ -2,7 +2,7 @@
 A Third Year Computer Science Major at UCLA, passionate about leveraging technology to drive innovation in machine learning, artificial intelligence, and web development.
 
 ## 🔭 Currently Building:
-- 1. Working on a timesheet/employee management website, an inventory management website, and a social media platform for UCLA Student Media, UCLA's 105-year-old student media organization.
+- Working on a timesheet/employee management website, an inventory management website, and a social media platform for UCLA Student Media, UCLA's 105-year-old student media organization.
 - A tagging and analytics platform designed specifically for Bruin Sports Analytics, tailored to the needs of UCLA student-athletes. This platform empowers UCLA Tennis players with features such as accessing match reports, receiving real-time scores, and conducting in-depth performance analysis based on timestamps.
 
 ## 🌱 What I'm currently learning:
