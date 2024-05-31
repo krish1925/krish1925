@@ -1,5 +1,5 @@
 # Hi there! I'm Krish Patel
-A Third Year Computer Science Major at UCLA, passionate about leveraging technology to drive innovation in machine learning, artificial intelligence, and web development.
+A Third Year Computer Science Student at UCLA, passionate about leveraging technology to drive innovation in machine learning, artificial intelligence, and web development.
 
 ## 🔭 Currently Building:
 - Working on a timesheet/employee management website, an inventory management website, and a social media platform for UCLA Student Media, UCLA's 105-year-old student media organization.
@@ -41,14 +41,6 @@ Numpy | Keras | Sklearn | Tensorflow | Pytorch | Matplotlib | OpenCV2 | Seaborn 
 ## 💡 Engage with My Projects:
 - **Issue Reporting:** Found a bug? Report it in the respective project's issue tracker.
 - **Feature Suggestions:** Have ideas on how to make a specific project better? I'd love to hear them! Submit your suggestions as issues.
-- **Pull Requests:** Interested in directly contributing to my projects? Great! I welcome pull requests.
-
-## Support
-If you appreciate my work, here's how you can support me:
-- Star your favorite repositories to show your appreciation.
-- Share interesting projects with your friends and colleagues.
-- Provide feedback or suggestions on any of my repositories.
-Feel free to explore my [GitHub Repositiories]([https://github.com/krish1925](https://github.com/krish1925?tab=repositories)) for a collection of various projects.
 
 Thank you for your support! 
 
