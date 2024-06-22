@@ -4,6 +4,8 @@ A Third Year Computer Science Student at UCLA, passionate about leveraging techn
 ## 🔭 Currently Building:
 - Working on a timesheet/employee management website, an inventory management website, and a social media platform for UCLA Student Media, UCLA's 105-year-old student media organization.
 - A tagging and analytics platform designed specifically for Bruin Sports Analytics, tailored to the needs of UCLA student-athletes. This platform empowers UCLA Tennis players with features such as accessing match reports, receiving real-time scores, and conducting in-depth performance analysis based on timestamps.
+- Building and working with Salesforce Einstein AI for data analytics.
+- Carrying out data analytics with Snowflake for time-based data analytics (sequential data).
 
 ## 🌱 What I'm currently learning:
 - Diving into Natural Language Processing and exploring libraries for word embedding and NLP model integration.
