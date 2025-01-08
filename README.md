@@ -2,23 +2,18 @@
 Third Year Computer Science Student at UCLA, focused on machine learning, AI, and web development.
 
 ## Current Projects:
-- Timesheet/employee management website, inventory management system, and social media platform for UCLA Student Media.
-- Modifying and Updating UCLA Student Media Apply Website.
+- Adding and Implementing Features on the Bruinwalk website, specifically API intergration.
+- Modifying the Timesheet/Employee management website, inventory management system for UCLA Student Media.
+- Adding Functionality on the UCLA SM Apply Website and resolving bugs.
 - Tagging and analytics platform for Bruin Sports Analytics, designed for UCLA Tennis athletes.
 - Data analytics with Salesforce Einstein AI and Snowflake for time-based analysis
 - Data Analytics on snowflake, RAG applications, TimeSeries predictions
 
 ## Learning Focus:
-- Natural Language Processing (NLP), including word embedding and model integration.
-- Neural Network architectures like GANs, VAEs, and Transformers. RAG applications
+- Natural Language Processing (NLP), including word embedding and model integration. Curating and cleanign datasets, finetuning quantized models using Unsloth.
+- Neural Network architectures like GANs, VAEs, and Transformers. Implementing RAG powered applications, and th
 - Computer Vision and Augmented Reality.
 - Web development with Django, Next.js, React, and Angular.
-
-## Hobbies:
-- Hiking.
-- Chemistry experiments: organic compound extraction, purification, and synthesis.
-- Botany: grafting techniques and tissue culture.
-- Geology: studying and collecting unique rocks(extractions from rock samples)
 
 ## Contact:
 - Email: knpatel@ucla.edu
