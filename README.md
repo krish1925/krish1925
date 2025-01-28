@@ -5,7 +5,7 @@ Third Year Computer Science Student at UCLA, focused on machine learning, AI, an
 - Implementing features on the [Bruinwalk](http://bruinwalk.com/) website, specifically adding saved-pages for individual profiles
 - Modifying the Timesheet/Employee management website, inventory management system for UCLA Student Media.
 - Upgrading and adding functionality on the UCLA SM [Apply](https://apply.uclastudentmedia.com/) Website and resolving bugs.
-- Tagging and analytics platform for Bruin Sports Analytics Tennis, designed for UCLA Tennis athletes:[Webite](ttps://match-viewing-dashboard.web.app/).
+- Tagging and analytics platform for Bruin Sports Analytics Tennis, designed for UCLA Tennis athletes: [Website](https://match-viewing-dashboard.web.app/).
 - Data analytics with Salesforce Einstein AI and Snowflake for time-based analysis
 - Data Analytics on snowflake, RAG applications, TimeSeries predictions
 
